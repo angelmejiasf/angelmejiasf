@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha384-mQ93GR66B00ZXjt0YO5KlohRA5SYw9AD1QJ0sSNdCBSvK3I5mkuFV5SUE2D2/aI" crossorigin="anonymous">
-
 <h1>🚀 Desarrollador Web Full-Stack</h1>
 
 <h2>¡Hola, soy Ángel! 👋</h2> Un estudiante entusiasta de desarrollo web con una pasión ardiente por la innovación y la creación de experiencias digitales sorprendentes. Mi enfoque integral en el desarrollo Full-Stack se basa en un sólido conocimiento de tecnologías clave como Java, PHP, JavaScript, React y Node.
