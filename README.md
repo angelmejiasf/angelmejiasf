@@ -11,4 +11,5 @@
 
 
 <h2>Proyectos Destacados</h2>
-🎡 [La Ruleta(https://github.com/angelmejiasf/ruleta)]: ¡El juego de la ruleta hecho con JavaScript!
+🎡 [La Ruleta](https://github.com/angelmejiasf/ruleta): ¡El juego de la ruleta hecho con JavaScript!
+
