@@ -11,7 +11,7 @@
 
 
 <h2>Proyectos Destacados</h2>
-🎡 [La Ruleta](https://github.com/angelmejiasf/ruleta "¡El juego de la ruleta hecho con JavaScript!")
+🎡 [La Ruleta](https://github.com/angelmejiasf/ruleta "¡El juego de la ruleta hecho con JavaScript!")<br>
 🎬 [Buscador Peliculas](https://github.com/angelmejiasf/Buscador-Peliculas-React): ¡Buscador de Peliculas de OMD hecho con React!
 
 
