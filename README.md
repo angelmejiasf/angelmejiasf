@@ -13,5 +13,5 @@
 <h2>Proyectos Destacados</h2>
 🎡 [La Ruleta](https://github.com/angelmejiasf/ruleta ¡El juego de la ruleta hecho con JavaScript!)<br>
 🎬 [Buscador Peliculas](https://github.com/angelmejiasf/Buscador-Peliculas-React): ¡Buscador de Peliculas de OMD hecho con React!
-📺 [Ricky Morty Api](https://github.com/angelmejiasf/Ricky-Morty):¡Api de Ricky Morty hecho con React!
+📺 [Ricky Morty Api](https://github.com/angelmejiasf/Ricky-Morty): ¡Api de Ricky Morty hecho con React!
 
