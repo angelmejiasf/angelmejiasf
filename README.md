@@ -20,7 +20,8 @@
 <h2 align="center">¡Conéctate conmigo!</h2>
 
 <p align="center">
-  ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones emocionantes! No dudes en contactarme a través de mis perfiles en redes sociales o visita mi sitio web personal para conocer más sobre mí y mi trabajo.
+  ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones emocionantes! No dudes en contactarme a través de mis perfiles en redes sociales o visita mi [perfil de LinkedIn](https://www.linkedin.com/in/angelmejias/) para conocer más sobre mí y mi trabajo.
 </p>
+
 
 
