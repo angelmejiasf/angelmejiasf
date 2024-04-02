@@ -17,7 +17,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/></a>
 
-<h2 align="center">Proyectos Destacados</h2>
+<h2 align="center">Proyectos Destacados:</h2>
 
 <p align="center">
   🎡 [La Ruleta](https://github.com/angelmejiasf/ruleta) - ¡El juego de la ruleta hecho con JavaScript!
