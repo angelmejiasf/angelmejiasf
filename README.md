@@ -5,7 +5,7 @@
 <p>Soy un estudiante de desarrollo web con una pasión por la innovación y la creación de experiencias digitales sorprendentes. Mi enfoque integral en el desarrollo Full-Stack se basa en un sólido conocimiento de tecnologías clave como Java, PHP, JavaScript, React y Node.</p>
 
 <h2 align="center">Lenguajes y herramientas que uso:</h2>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,react,php,symfony,java,mysql,linux,vscode,git,cpp,eclipse,github&perline=20" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,react,php,java,mysql,linux,vscode,git,eclipse,github&perline=20" />
 
 <h2 align="center">¡Conecta conmigo!</h2>
 
