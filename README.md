@@ -19,8 +19,8 @@
 
 <h2 align="center">¡Conéctate conmigo!</h2>
 
-<p align="center">
-  ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones emocionantes! No dudes en contactarme a través de mis perfiles en redes sociales o visita mi [perfil de LinkedIn](https://www.linkedin.com/in/angelmejias/) para conocer más sobre mí y mi trabajo.
+<p align="left">
+<a href="https://linkedin.com/in/juanferron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/angelmejias/" height="30" width="40" /></a>
 </p>
 
 
